@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quinalt
+- 👋 Hi, I’m Devin 
 - 👀 I’m interested in biological applications of machine learning and swarm robotics . 
 - 🌱 I’m currently learning about unsupervised machine learning algorithms. 
 - 💞️ I’m looking to collaborate on fisheries biology machine learning projects. 
