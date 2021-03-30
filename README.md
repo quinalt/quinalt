@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Devin 
-- 👀 I’m interested in biological applications of machine learning and swarm robotics . 
-- 🌱 I’m currently learning about unsupervised machine learning algorithms. 
-- 💞️ I’m looking to collaborate on fisheries biology machine learning projects. 
-- 📫 How to reach me ... alpinedev93@gmail.com 
+Biologist / Data Scientist with a background in fisheries and research. Currently working on a swarm robotics research project, and unsupervised machine learning projects. 
 
 <!---
 quinalt/quinalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
